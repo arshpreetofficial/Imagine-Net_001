@@ -57,7 +57,7 @@ IMAGINE-Net_001/
 Please request or download the following datasets:
 
 - [ADNI](https://adni.loni.usc.edu/)
-- [CLAS](https://brainclinic.upm.edu.my/)
+- [OASIS](https://sites.wustl.edu/oasisbrains/)
 - [AIBL](https://aibl.csiro.au/)
 
 
