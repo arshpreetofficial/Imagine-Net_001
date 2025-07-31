@@ -1,0 +1,8 @@
+torch>=2.0
+nibabel
+nilearn
+scikit-learn
+pandas
+matplotlib
+scipy
+pyyaml

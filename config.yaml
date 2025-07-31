@@ -1,0 +1,10 @@
+# Configuration for IMAGINE-Net
+training:
+  epochs: 50
+  batch_size: 4
+  learning_rate: 0.002
+  optimizer: Adam
+
+paths:
+  data_root: ./data
+  save_dir: ./models
